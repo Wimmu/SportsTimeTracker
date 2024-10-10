@@ -17,5 +17,5 @@ Suurin haasteeni oli kuitenkin virtuaalikoneen käyttöönotto. Yritin asentaa L
 
 
 ## Application in virtual machine
-![Temperature Converter](images/untitled.png)  <!-- Replace this with your actual image URL -->
+![Temperature Converter](images/Untitled.png)  <!-- Replace this with your actual image URL -->
 
